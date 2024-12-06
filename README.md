@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img style="display: none;" src="https://raw.githubusercontent.com/Davi-D18/Davi-D18/output/snake.svg" alt="Snake animation" />
-
-###
