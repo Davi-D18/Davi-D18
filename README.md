@@ -10,7 +10,7 @@ Além do trabalho, aqui estão algumas coisas que adoro fazer:
 - **Gamer:** 🎮 Em busca do próximo desafio.
 - **Amante de Fotografia:** 📸 Capturando momentos especiais.
 
-## Minhas Skills
+## Skills
 
 **Front-end**
 
@@ -25,6 +25,7 @@ Além do trabalho, aqui estão algumas coisas que adoro fazer:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
