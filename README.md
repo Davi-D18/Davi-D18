@@ -50,7 +50,7 @@ Além do trabalho, aqui estão algumas coisas que adoro fazer:
 
 <p align="center">
     <a href="https://github.com/Davi-D18" title="Perfil de Davi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-D18&theme=dracula&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.zcy.dev/api?username=Davi-D18&theme=dracula&show_icons=true" />
     </a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-D18&layout=compact&langs_count=6&theme=dracula"/>
 </p>
