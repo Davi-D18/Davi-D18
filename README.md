@@ -30,6 +30,7 @@ Além do trabalho, aqui estão algumas coisas que adoro fazer:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **IA**
+
 ![Langchain](https://img.shields.io/badge/-Langchain-333333?style=flat&logo=langchain)
 
 **DevOps**
